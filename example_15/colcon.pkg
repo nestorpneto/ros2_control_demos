@@ -1,0 +1,3 @@
+{
+    "hooks": ["share/ros2_control_demo_example_15/hooks/hook.dsv"]
+}
